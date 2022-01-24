@@ -51,6 +51,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+        <!-- 以spring-boot-starter的方式引用 -->
+        <dependency>
+            <groupId>org.ssssssss</groupId>
+            <artifactId>magic-api-spring-boot-starter</artifactId>
+            <version>1.7.5</version>
+        </dependency>
 
         <dependency>
             <groupId>com.h2database</groupId>
